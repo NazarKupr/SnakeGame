@@ -18,7 +18,7 @@ var drawModule = (function () {
   var scoreText = function() {
     var score_text = "Score: " + score;
     ctx.fillStyle = 'blue';
-    ctx.fillText(score_text, 145, h-5);
+    ctx.fillText(score_text, 205, h-5);
   }
 
   var drawSnake = function() {
@@ -55,6 +55,7 @@ var drawModule = (function () {
 
           ctx.clearRect(0,0,w,h);
           gameloop = clearInterval(gameloop);
+          score = 0;
           return;          
         }
         

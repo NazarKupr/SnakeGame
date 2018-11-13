@@ -64,3 +64,8 @@ var snakeY = snake[0].y;
     } else if (direction == 'down') { 
       snakeY++; }
 ```
+----------------------------------------------------------------------
+##Contribution guide 
+```
+If you have ideas that can improve or add something new to my snake game, create new pull requests where I can see all the suggestions for improving the game.
+```
