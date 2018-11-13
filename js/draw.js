@@ -18,7 +18,8 @@ var drawModule = (function () {
   var scoreText = function() {
     var score_text = "Score: " + score;
     ctx.fillStyle = 'blue';
-    ctx.fillText(score_text, 205, h-5);
+    ctx.font="20px Georgia";
+    ctx.fillText(score_text, 185, h-5);
   }
 
   var drawSnake = function() {
