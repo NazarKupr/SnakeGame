@@ -65,16 +65,12 @@ var snakeY = snake[0].y;
       snakeY++; }
 ```
 ----------------------------------------------------------------------
-###Contribution guide 
+### Contribution guide 
 
 If you have ideas that can improve or add something new to my snake game, create new pull requests where I can see all the suggestions for improving the game.
 
-##Facebook 
-  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D1949497618540099%26id%3D100004396395379&width=500" width="500" height="329" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-
-
-###GitHub 
+### GitHub 
 https://github.com/NazarKupr/SnakeGame
 
-###FrontCamp
+### FrontCamp
 https://www.facebook.com/groups/270300106928894/?ref=group_header
